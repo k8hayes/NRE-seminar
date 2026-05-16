@@ -3,11 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "NRE 692/492"
+  title: "NRE Fall Seminar Series"
   navbar:
     right:
-      - text: "692 Syllabus"
+      - text: "NRE 692 Syllabus"
         file: 692_syllabus.pdf
+      - text: "NRE 497 Syllabus"
+        file: 497_syllabus.pdf
       - text: "Schedule"
         file: schedule.qmd
 
@@ -19,4 +21,3 @@ format:
     toc: false
 
 editor: visual
-
